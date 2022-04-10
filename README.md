@@ -9,6 +9,33 @@ The application will allow a user to post a project he/she has created and get i
 4.Run project using python3.8 manage.py runserver.
 
 ## User Experience
+1.Register If Your Are A New User.
+
+![Screenshot from 2022-04-10 18-45-45](https://user-images.githubusercontent.com/93251478/162627863-13396914-51d8-45fb-ad85-468706b57e32.png)
+
+
+2.Login Into Your Account
+
+![Screenshot from 2022-04-10 18-42-35](https://user-images.githubusercontent.com/93251478/162627922-6c220896-7a65-42ef-ab2e-71aa38105066.png)
+
+
+3.Upload Your Project
+
+![Screenshot from 2022-04-10 18-42-55](https://user-images.githubusercontent.com/93251478/162628004-6ef6a199-9b22-4fff-8d21-42173c8a741a.png)
+
+
+4.This is the Home Landing Page.
+
+![Screenshot from 2022-04-10 18-56-18](https://user-images.githubusercontent.com/93251478/162628491-eec9d3a0-fa09-46a1-906d-8fdd89b62f7c.png)
+
+
+5.This is the Project Landing Page.
+
+![Screenshot from 2022-04-10 18-56-13](https://user-images.githubusercontent.com/93251478/162628472-3732aebd-9162-4482-88fa-866169be3000.png)
+
+
+
+
 
 ## Project Link
 https://github.com/Emmanuel687/Awwards-Web-App.git
